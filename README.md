@@ -22,18 +22,14 @@ Therefore, this repository purpose is to help automate the process of viewing cy
 In order to use show_NFC_CV_plot.py to visualize cyclic voltammogram from raw txt file.
 The following prerequisites are required.
 
-### Prerequisites
+### Requirement
+
+Please install python library in the requirement.txt
+   ```sh
+   pip install -r requirement.txt
+   ```
 
 
-* pandas
-  ```sh
-  pip install pandas
-  ```
-  
-* seaborn
-  ```sh
-  pip install seaborn
-  ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
